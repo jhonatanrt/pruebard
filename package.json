@@ -4,7 +4,10 @@
   "description": "prueba de coffescript",
   "main": "index.js",
   "dependencies": {
-    "coffee-script": "^1.12.3"
+    "coffee-script": "^1.12.3",
+    "express": "^4.14.1",
+    "jade": "^1.11.0",
+    "stylus": "^0.54.5"
   },
   "devDependencies": {},
   "scripts": {
